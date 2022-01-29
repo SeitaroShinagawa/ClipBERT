@@ -2,7 +2,7 @@ ipdb
 joblib
 cytoolz
 lz4==2.1.9
-lmdb==0.97
+lmdb
 msgpack-numpy
 msgpack
 toolz
@@ -11,7 +11,6 @@ tensorboard
 ffmpeg-python
 tqdm
 easydict
-pycocotools>=2.0.1
 opencv-python
 tensorboardX==2.0
 av==8.0.2
